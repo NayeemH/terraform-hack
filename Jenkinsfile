@@ -17,37 +17,37 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy2') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy3') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy4') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy5') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy6') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy7') {
             steps {
                 echo 'Deploying....'
             }
         }
-        stage('Deploy') {
+        stage('Deploy8') {
             steps {
                 echo 'Deploying....'
             }
